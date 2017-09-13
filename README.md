@@ -3,10 +3,7 @@ Projeto, com tema "Cubo mágico", onde são aplicadas técnicas e conceitos de C
 A aplicação tem  um ambiente  com  dois  cubos  mágicos, sendo um deles a componente principal, e outros elementos de três dimensões. O mundo criado pretende  simular  um  sistema  solar  com  alguns  planetas, onde é  possível, com o  auxílio  do teclado, movimentar o cubo principal e acompanhá-lo na exploração de toda a área envolvente e os elementos que a constituem. Para dar mais realismo ao trabalho, foram introduzidos alguns fenómenos  naturais  como  nevoeiro,  chuva  e  neve,  que  pretendem  demonstrar  os  possíveis climas no planeta extraterrestre em questão. Além disso, foram exploradas outros tipos de técnicas de computação gráfica, como iluminação, transparência, sombreamente e reflexão. 
 
 
-![alt text](https://i.imgur.com/fKA2xxa.png)
-
-<p>
-	<span style="color:#0000ff;"><span style="font-size: 16px;">Executar</span></span></p>
+**Executar**
 
 -Aplicação pode ser executada em qualquer IDE configurado para programação gráfica com OpenGL na linguagem C++ ou através do executável presente em bin/debug
 
@@ -14,8 +11,7 @@ A aplicação tem  um ambiente  com  dois  cubos  mágicos, sendo um deles a com
 ![alt text](https://i.imgur.com/0KhQj0U.png)
 
 
-<p>
-	<span style="color:#0000ff;"><span style="font-size: 16px;">Ações</span></span></p>
+**Ações**
 
 Depois de correr o executável o utilizador pode efetuar operações e tomar várias escolhas, quer através  do teclado ou do menu gerado na posição do cursor, quando se clica no botão direito do rato. No menu estão disponíveis as opções relativas a ligar e desligar luzes (modo dia/noite, ligar/desligar luz do tecto e ligar/desligar lanterna do observador), ativar e desativar os fenómenos naturais (nevoeiro, chuva e neve), e escolher entre os vários tipos de preenchimento  das faces do  cubo  (cores,  texturas  e  materiais),  além  da  opção  de  sair  da aplicação. As restantes escolhas podem ser feitas através do teclado, funcionando cada tecla do seguinte modo:  
 
